@@ -1,0 +1,10 @@
+.nevjegy {
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+    border: solid 3px gray;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 50px;
+  }
